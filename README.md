@@ -20,7 +20,7 @@
 • Social media Ai Assistant🌐,Custom GPT⚙️,Web Development💻,<br><br>
 • 📫 Reach me LInkedin DM (AYAN IMRAN)<br><br>
 • 📫 Reach me Personal Website (work on)<br>
-• 🤝 1v1 Consutation :https://linktr.ee/ayanimran br><br>
+• 🤝 1v1 Consutation :https://linktr.ee/ayanimran <br>
 
 
 <hr>
