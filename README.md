@@ -41,6 +41,9 @@
  <td align='center' width="200">
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
+	 <td align='center' width="200">
+        <img src="https://media.licdn.com/dms/image/D5612AQGtQ_qyZu53Gg/article-cover_image-shrink_600_2000/0/1692727663421?e=2147483647&v=beta&t=m-QxBQwP_5_5-DqypEEEwJTMqfBw5iEhNxx24I0bzno" width="100">
+    </td>
 </tr>
    
 <tr>
@@ -55,6 +58,9 @@
     </td>
      <td align='center'>
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
+    </td>
+	 <td align='center'>
+        <img src="https://www.pngitem.com/pimgs/m/1-15848_node-js-node-js-hd-png-download.png">
     </td>
 </tr>
  
