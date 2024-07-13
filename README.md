@@ -32,13 +32,17 @@
 <td align='center' width="100">
 	<img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=0078ff"></td>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0078ff"> </td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=0078ff"></td> 
+<td align='center' width="300"><img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=0078ff"></td> </tr>
+<tr>	
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Tailwind CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=0078ff"></td>  <td align='center' width="300"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=0078ff"></td>
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=0078ff"></td></tr>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=0078ff"></td>
+</tr>
 <tr>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Frontend Development-0D1117?style=flat-square&logo=frontend&logoColor=0078ff"></td> 
 	
-<td align='center' width="300"><img src="https://img.shields.io/badge/-Backend Development-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Full Stack Development-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Backend Development-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Full Stack Development-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td
+</tr>
+<tr>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-AI Development-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
