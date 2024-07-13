@@ -29,43 +29,22 @@
 <h2>⚡Tech Stack</h2>
 <table width="100">
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
-    </td>
-  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://media.licdn.com/dms/image/D5612AQGtQ_qyZu53Gg/article-cover_image-shrink_600_2000/0/1692727663421?e=2147483647&v=beta&t=m-QxBQwP_5_5-DqypEEEwJTMqfBw5iEhNxx24I0bzno" width="100">
-    </td>
-</tr>
-   
+<td align='center' width="100">
+	<img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0078ff"> </td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=0078ff"></td> 
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Tailwind CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=0078ff"></td>  <td align='center' width="300"><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=0078ff"></td></tr>
 <tr>
-    <td align='center' width="72">
-       <img src ="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" style=flat-square&logo=javascript&logoColor=F0DB4F />
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
-    </td>
- <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
-    </td>
-	 <td align='center'>
-        <img src="https://www.pngitem.com/pimgs/m/1-15848_node-js-node-js-hd-png-download.png">
-    </td>
-</tr>
- 
-    
-</table>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Frontend Development-0D1117?style=flat-square&logo=frontend&logoColor=0078ff"></td> 
+	
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Backend Development-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Full Stack Development-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-AI Development-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
+	</table>
+ <br>
+<hr>
 
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me 🤝</h3>
@@ -80,5 +59,15 @@
     <br>
 </div>
 </p>
+	    <a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank">
+    <a href="#"><img alt="AYAN IMRAN Github Stats" src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="200px" /></a>
+    <br>
+		 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="200px" alt="AYAN-IMRAN" /></p>
+<br>
+</div>
+<
 
+<hr>
 <br>
