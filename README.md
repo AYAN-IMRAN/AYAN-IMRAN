@@ -47,6 +47,15 @@
 <td align='center' width="300"><img src="https://img.shields.io/badge/-AI Development-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Prompt Engineering-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
+<tr>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Chatbot Development-0D1117?style=flat-square&logo=frontend&logoColor=0078ff"></td> 
+	
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Dialogflow-0D1117?style=flat-square&logo=backend&logoColor=0078ff"></td><td align='center' width="300"><img src="https://img.shields.io/badge/-Manychat-0D1117?style=flat-square&logo=fullstack&logoColor=0078ff"></td
+</tr>
+<tr>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Langchain🦜🔗-0D1117?style=flat-square&logo=ai&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-Flowise-0D1117?style=flat-square&logo=promptengineering&logoColor=0078ff"></td>
+<td align='center' width="300"><img src="https://img.shields.io/badge/-LLM-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
 	</table>
  <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
