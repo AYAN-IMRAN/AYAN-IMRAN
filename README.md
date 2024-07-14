@@ -7,7 +7,7 @@
 
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
-	src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
 <hr>
@@ -22,11 +22,15 @@
 • 📫 Reach me Personal Website (work on)<br>
 • 🤝 1v1 Consutation :https://linktr.ee/ayanimran <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1>⚡Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
 
 
-<h2>⚡Tech Stack</h2>
 <table width="100">
 <tr>
 <td align='center' width="100">
@@ -48,7 +52,7 @@
 <td align='center' width="300"><img src="https://img.shields.io/badge/-Project Management-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
 	</table>
  <br>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me 🤝</h3>
@@ -65,13 +69,17 @@
 </p>
 	    <a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank">
-    <a href="#"><img alt="AYAN IMRAN Github Stats" src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="200px" /></a>
-    <br>
-		 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=true&bg_color=0D1117&title_color=0078ff&icon_color=0078ff" height="200px" alt="AYAN-IMRAN" /></p>
+
+
+| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN\&rank_icon=percentile&show_icons=true&theme=dark&show=reviews&bg_color=fff&title_color=0078FF&icon_color=0078FF&text_color=0078FF&border_color=0A0209&border_radius=8) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&theme=icegray&border_radius=8) |
+| -- | -- |		 
 <br>
 </div>
-<
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <hr>
 <br>
