@@ -13,13 +13,10 @@
 <hr>
 • 💪🏻 I'm a 🔥 Chatbot and Web Developer.<br><br>
 • 👨‍💻 I'm a CHatbot Developer from Pakistan.<br><br>
-• 💰  RISING TALENT at Upwork ✅.<br> <br>
-• 📗 I'm currently learning Genrative AI... 😭.<br><br>
-• 💸 New SELLER on Fiverr.<br> <br>
 • 🌊 I'm specialize in Dialogflow🤖,<br><br>
-• Social media Ai Assistant🌐,Custom GPT⚙️,Web Development💻,<br><br>
+• 💰  RISING TALENT at Upwork ✅.<br> <br>
 • 📫 Reach me LInkedin DM (AYAN IMRAN)<br><br>
-• 📫 Reach me Personal Website (work on)<br>
+• 📫 Reach me Personal Website (work on)<br><br>
 • 🤝 1v1 Consutation :https://linktr.ee/ayanimran <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
