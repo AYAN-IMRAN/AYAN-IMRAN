@@ -4,15 +4,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=500&color=EB9C00&random=false&width=435&lines=%E2%9C%A8Chatbot+Developer%F0%9F%A4%96;%E2%9A%99%EF%B8%8FML%26NLP+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9A%A1Mern+Stack+Developer%F0%9F%9A%80;%F0%9F%92%A1AI+Solutions+Provide%F0%9F%A4%96" alt="Typing SVG" /></a>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
-
+<!-- 	<p align="left"> <img src="https://visitcount.itsvg.in/api?id=@AYAN-IMRAN&icon=3&color=1)](https://visitcount.itsvg.in)" alt="theAyanahmed" /> </p>
+ -->
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-# 💫 About Me:
+<h4 align="left" style="color=EB9C00"> About Me: <h4>
 
-<h3 align="left" >ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ᴄʀᴇᴀᴛɪɴɢ ᴄᴏɴᴠᴇʀꜱᴀᴛɪᴏɴᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ. ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ᴄʜᴀᴛʙᴏᴛꜱ ᴛʜᴀᴛ ᴇɴɢᴀɢᴇ ᴜꜱᴇʀꜱ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ. ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ, ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ/ᴍᴀʀᴋᴇᴛɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. ᴋᴇʏ ꜱᴋɪʟʟꜱ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ᴅɪᴀʟᴏɢꜰʟᴏᴡ, ꜰʟᴏᴡɪꜱᴇ, ᴍᴀɴʏᴄʜᴀᴛ, ᴋᴏᴍᴍᴜɴɪᴄᴀᴛᴇ, ꜱᴛʀᴇᴀᴍʟɪᴛ, ʟʟᴍꜱ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ʜᴛᴍʟ, ᴄꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄꜱꜱ, ʙᴏᴏᴛꜱᴛʀᴀᴘ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ.</h3>
-
+<h3 align="left" >ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ᴄʀᴇᴀᴛɪɴɢ ᴄᴏɴᴠᴇʀꜱᴀᴛɪᴏɴᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ. ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ᴄʜᴀᴛʙᴏᴛꜱ ᴛʜᴀᴛ ᴇɴɢᴀɢᴇ ᴜꜱᴇʀꜱ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ. <br><br>
+• ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴄʜᴀᴛʙᴏᴛ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ, ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ/ᴍᴀʀᴋᴇᴛɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. <br><br>
+• ᴋᴇʏ ꜱᴋɪʟʟꜱ ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ᴅɪᴀʟᴏɢꜰʟᴏᴡ,ʟʟᴍ, ᴍʟ, ʟᴀɴɢᴄʜᴀɪɴ🦜🔗 ,ɴʟᴘ,ɴᴏᴅᴇ.ᴊꜱ ꜰʟᴏᴡɪꜱᴇ, ᴍᴀɴʏᴄʜᴀᴛ(ꜰᴀᴄᴇʙᴏᴏᴋ&ɪɴꜱᴛᴀɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ), ᴋᴏᴍᴍᴜɴɪᴄᴀᴛᴇ,ꜱᴛʀᴇᴀᴍʟɪᴛ,<br> <br>
+• ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ʜᴛᴍʟ, ᴄꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄꜱꜱ, ʙᴏᴏᴛꜱᴛʀᴀᴘ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ.</h3><br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 • 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
 • 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
@@ -61,6 +65,8 @@
 <td align='center' width="300"><img src="https://img.shields.io/badge/-LLM-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
 	</table>
  <br>
+<img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+ 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
@@ -84,8 +90,12 @@
 | -- | -- |		 
 <br>
 </div>
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+<br>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
