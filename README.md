@@ -9,15 +9,18 @@
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+# 💫 About Me:
+
+<h3 align="left" >ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ᴄʀᴇᴀᴛɪɴɢ ᴄᴏɴᴠᴇʀꜱᴀᴛɪᴏɴᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ. ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ᴄʜᴀᴛʙᴏᴛꜱ ᴛʜᴀᴛ ᴇɴɢᴀɢᴇ ᴜꜱᴇʀꜱ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ. ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ, ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ/ᴍᴀʀᴋᴇᴛɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. ᴋᴇʏ ꜱᴋɪʟʟꜱ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ᴅɪᴀʟᴏɢꜰʟᴏᴡ, ꜰʟᴏᴡɪꜱᴇ, ᴍᴀɴʏᴄʜᴀᴛ, ᴋᴏᴍᴍᴜɴɪᴄᴀᴛᴇ, ꜱᴛʀᴇᴀᴍʟɪᴛ, ʟʟᴍꜱ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ʜᴛᴍʟ, ᴄꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄꜱꜱ, ʙᴏᴏᴛꜱᴛʀᴀᴘ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ.</h3>
 
 <hr>
-• 💪🏻 I'm a 🔥 Chatbot and Web Developer.<br><br>
-• 👨‍💻 I'm a CHatbot Developer from Pakistan.<br><br>
-• 🌊 I'm specialize in Dialogflow🤖<br><br>
-• 💰  RISING TALENT at Upwork ✅.<br> <br>
-• 📫 Reach me LInkedin DM (AYAN IMRAN).<br><br>
-• 📫 Reach me Personal Website :https://ayan-imran.vercel.app/.<br><br>
-• 🤝 1v1 Consutation :https://linktr.ee/ayanimran <br>
+• 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
+• 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
+• 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖  <br><br>
+• 💰 ʀɪꜱɪɴɢ ᴛᴀʟᴇɴᴛ ᴀᴛ ᴜᴘᴡᴏʀᴋ ✅. <br><br>
+• 📫 ʀᴇᴀᴄʜ ᴍᴇ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br><br>
+• 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ : https://ayan-imran.vercel.app/. <br><br> 
+• 🤝 1ᴠ1 ᴄᴏɴꜱᴜᴛᴀᴛɪᴏɴ : https://linktr.ee/ayanimran <br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
