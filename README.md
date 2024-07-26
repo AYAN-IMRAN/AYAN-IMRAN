@@ -20,6 +20,7 @@
 <hr>
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
 	src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/><br>
+<div align ="left">
 • 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
 • 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
 • 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖  <br><br>
@@ -27,6 +28,7 @@
 • 📫 ʀᴇᴀᴄʜ ᴍᴇ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br><br>
 • 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ : https://ayan-imran.vercel.app/. <br><br> 
 • <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" />  1ᴠ1 ᴄᴏɴꜱᴜᴛᴀᴛɪᴏɴ : https://linktr.ee/ayanimran <br><br>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
