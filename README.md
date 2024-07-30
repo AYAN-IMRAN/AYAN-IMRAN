@@ -4,8 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=500&color=EB9C00&random=false&width=435&lines=%E2%9C%A8Chatbot+Developer%F0%9F%A4%96;%E2%9A%99%EF%B8%8FML%26NLP+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9A%A1Mern+Stack+Developer%F0%9F%9A%80;%F0%9F%92%A1Providing+AI+Solutions%F0%9F%A4%96" alt="Typing SVG" /></a>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
-<!-- 	<p align="left"> <img src="https://visitcount.itsvg.in/api?id=@AYAN-IMRAN&icon=3&color=1)](https://visitcount.itsvg.in)" alt="theAyanahmed" /> </p>
- -->
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/ZAYAN-IMRAN-widgetbox)	
+	
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
