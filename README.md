@@ -1,7 +1,7 @@
 
 <div align =center>
 <h1>Hi I,m Ayan Imran 👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=500&color=EB9C00&random=false&width=435&lines=%E2%9C%A8Chatbot+Developer%F0%9F%A4%96;%E2%9A%99%EF%B8%8FML%26NLP+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9A%A1Mern+Stack+Developer%F0%9F%9A%80;%F0%9F%92%A1Providing+AI+Solutions%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2200&pause=2000&color=FFB332&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer+;%E2%9A%99%EF%B8%8FML%26NLP+Developer;%F0%9F%92%A1AI+Solutions+Provider" alt="Typing SVG" /></a>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
 
@@ -91,17 +91,27 @@
     <br>
 
 
-| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN\&rank_icon=percentile&show_icons=true&theme=dark&show=reviews&bg_color=fff&title_color=0078FF&icon_color=0078FF&text_color=0078FF&border_color=0A0209&border_radius=8) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&theme=icegray&border_radius=8) |
-| -- | -- |		 
+	 
 <br>
 </div>
 <br>
+
+| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN\&rank_icon=percentile&show_icons=true&theme=dark&show=reviews&bg_color=fff&title_color=0078FF&icon_color=0078FF&text_color=0078FF&border_color=0A0209&border_radius=8) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&theme=icegray&border_radius=8) |
+| -- | -- |	
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN">
 <br>
 <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true">
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
+<br>
+<br>
 
+
+<br>
+<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
