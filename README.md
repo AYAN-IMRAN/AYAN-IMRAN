@@ -7,8 +7,6 @@
 <a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true&width=500&height=50&color=f0db4f"></a><p/>
  </div>
   <br>
- 
-  <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
 	
 	
