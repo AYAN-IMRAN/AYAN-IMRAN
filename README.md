@@ -1,8 +1,9 @@
-
-<div align =center>
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1600&pause=10000&color=FFFFFF&width=435&height=65&lines=Hi+it's+me+Ayan+Imran+%F0%9F%91%8B">
-	<br>
-	<h2><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2200&pause=2000&color=FFB332&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer+;%E2%9A%99%EF%B8%8FML%26NLP+Developer;%F0%9F%92%A1AI+Solutions+Provider" alt="Typing SVG" /></a></h2><div/>
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=35&duration=1600&pause=10000&color=FFFFFF&width=435&height=65&lines=Hi+it's+me+Ayan+Imran+%F0%9F%91%8B)](https://git.io/typing-svg)
+  <br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1)](https://git.io/typing-svg)
+  </div>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
 
