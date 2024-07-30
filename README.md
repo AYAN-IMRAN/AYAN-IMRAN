@@ -1,13 +1,13 @@
 <body>
 	
-  <div align="center">
+  <div align="center" >
     <h1> Hi, I'm Ayan Imran👋<a href="https://github.com/AYAN-IMRAN/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1"></a>
-
+<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true&width=500&height=50&color=f0db4f"></a><p/>
+ </div>
   <br>
-  </div>
+ 
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
 	
@@ -42,10 +42,10 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1>⚡Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
+<h1 align="center"> ⚡Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
 
 
-<table width="100">
+<table width="100" align="center">
 <tr>
 <td align='center' width="100">
 	<img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=0078ff"></td>
@@ -75,15 +75,11 @@
 <td align='center' width="300"><img src="https://img.shields.io/badge/-LLM-0D1117?style=flat-square&logo=projectmanagement&logoColor=0078ff"></td> </tr>
 	</table>
  <br>
-<img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+<div align="center"><img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif"></div>
+
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
-<div align="center">
-	
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/AYAN-IMRAN-widgetbox)
-	<div/>
 <br>
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
@@ -110,13 +106,13 @@
 | ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN\&rank_icon=percentile&show_icons=true&theme=dark&show=reviews&bg_color=fff&title_color=0078FF&icon_color=0078FF&text_color=0078FF&border_color=0A0209&border_radius=8) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&theme=icegray&border_radius=8) |
 | -- | -- |	
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN"></div>
 <br>
 <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
+<div align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"></div><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
 <br>
 <br>
 
