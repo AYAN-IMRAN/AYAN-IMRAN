@@ -6,8 +6,7 @@
   </div>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/ZAYAN-IMRAN-widgetbox)	
+	
 	
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
@@ -76,6 +75,10 @@
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<br>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/ZAYAN-IMRAN-widgetbox)
+<br>
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
   <p align="center">
