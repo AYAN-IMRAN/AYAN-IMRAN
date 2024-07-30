@@ -1,6 +1,10 @@
-<div align="center">
-	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=35&duration=1600&pause=10000&color=FFFFFF&width=435&height=65&lines=Hi+it's+me+Ayan+Imran+%F0%9F%91%8B)](https://git.io/typing-svg)
+<body>
+  <div align="center">
+    <h1> Hi, I'm Ayan Imran👋<a href="https://github.com/AYAN-IMRAN/"></h1>
+  </div>
+<p align="center">
+<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1)](https://git.io/typing-svg"></a>
+
   <br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1)](https://git.io/typing-svg)
   </div>
