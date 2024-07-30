@@ -1,12 +1,12 @@
 <body>
+	
   <div align="center">
     <h1> Hi, I'm Ayan Imran👋<a href="https://github.com/AYAN-IMRAN/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1)](https://git.io/typing-svg"></a>
+<a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1"></a>
 
   <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1)](https://git.io/typing-svg)
   </div>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
@@ -80,8 +80,10 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/ZAYAN-IMRAN-widgetbox)
+<div align="center">
+	
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/AYAN-IMRAN/AYAN-IMRAN-widgetbox)
+	<div/>
 <br>
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
@@ -111,7 +113,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN">
 <br>
 <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
@@ -126,3 +128,4 @@
 
 <hr>
 <br>
+</body>
