@@ -23,7 +23,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
-	src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/><br>
+	src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/><br>
 <div align ="left">
 • 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
 • 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
