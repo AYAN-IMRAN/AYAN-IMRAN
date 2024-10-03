@@ -92,20 +92,24 @@
     <br>
 </div>
 </p>
-	    <a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+	    <a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
     <br>
 
-
+<h2>🔝 Top Contributed Repo</h2> 
+<img src = "https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<br>
 	 
 <br>
 </div>
 <br>
 
-| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN\&rank_icon=percentile&show_icons=true&theme=dark&show=reviews&bg_color=fff&title_color=0078FF&icon_color=0078FF&text_color=0078FF&border_color=0A0209&border_radius=8) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&theme=icegray&border_radius=8) |
+| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false) |
 | -- | -- |	
 <br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=radical&no-frame=false&no-bg=true&margin-w=4"></div>
 <br>
+<br>
+
 <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
 <br>
