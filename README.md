@@ -92,7 +92,10 @@
     <br>
 </div>
 </p>
-	    <a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
+<!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
+																										<br><br> -->
+	 
+<a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
     <br>
 
 <h2>🔝 Top Contributed Repo</h2> 
