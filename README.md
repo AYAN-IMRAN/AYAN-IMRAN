@@ -16,7 +16,7 @@
  ## About Me 👨‍💻
   I'm an AI Chatbot and Web Developer with 1.5 years of experience in web development and AI solutions.
 
-  - 🚀 **Specializations**: AI Chatbots 🤖, MERN Stack Development, Web Development
+  - 🚀 **Specializations**: AI Chatbots 🤖, MERN Stack Development,
   - 🧠 **Technologies**: NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python
   - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
 
