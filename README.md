@@ -13,13 +13,17 @@
 
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+ ## About Me 👨‍💻
+  I'm an AI Chatbot and Web Developer with 1.5 years of experience in web development and AI solutions.
 
-<h4 align="left" style="color=EB9C00"> About Me: <h4>
+  - 🚀 **Specializations**: AI Chatbots 🤖, MERN Stack Development, Web Development
+  - 🧠 **Technologies**: NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python
+  - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
 
-<h3 align="left" >ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ᴄʀᴇᴀᴛɪɴɢ ᴄᴏɴᴠᴇʀꜱᴀᴛɪᴏɴᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ. ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ᴄʜᴀᴛʙᴏᴛꜱ ᴛʜᴀᴛ ᴇɴɢᴀɢᴇ ᴜꜱᴇʀꜱ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ. <br><br>
-• ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴄʜᴀᴛʙᴏᴛ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ, ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ/ᴍᴀʀᴋᴇᴛɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ. <br><br>
-• ᴋᴇʏ ꜱᴋɪʟʟꜱ ᴀɪ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ᴅɪᴀʟᴏɢꜰʟᴏᴡ,ʟʟᴍ, ᴍʟ, ʟᴀɴɢᴄʜᴀɪɴ🦜🔗 ,ɴʟᴘ,ɴᴏᴅᴇ.ᴊꜱ ꜰʟᴏᴡɪꜱᴇ, ᴍᴀɴʏᴄʜᴀᴛ(ꜰᴀᴄᴇʙᴏᴏᴋ&ɪɴꜱᴛᴀɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ), ᴋᴏᴍᴍᴜɴɪᴄᴀᴛᴇ,ꜱᴛʀᴇᴀᴍʟɪᴛ,<br> <br>
-• ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ʜᴛᴍʟ, ᴄꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄꜱꜱ, ʙᴏᴏᴛꜱᴛʀᴀᴘ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ.</h3><br><br>
+  ## 💡 Skills
+  - **AI Chatbot Development**: Dialogflow, Langchain, Flowise
+  - **Web Development**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+<br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
