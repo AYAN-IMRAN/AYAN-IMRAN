@@ -110,6 +110,10 @@
 </div>
 <br>
 
+<br>
+<div align=center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800"></div>
+<br>
+
 | ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false) |
 | -- | -- |	
 <br>
