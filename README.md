@@ -125,6 +125,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
 <br>
 <br>
+<div align="center">
+	<a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
+</div>
+
+<br>
+<br>
 <div align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"></div>
 <br>
 <br>
