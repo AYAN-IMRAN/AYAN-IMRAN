@@ -6,6 +6,10 @@
 <p align="center">
 <a href="https://github.com/AYAN-IMRAN/"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true&width=500&height=50&color=f0db4f"></a><p/>
  </div>
+<div align="center">
+	<a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
+</div>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
 	
@@ -105,14 +109,14 @@
 <h2>🔝 Top Contributed Repo</h2> 
 <img src = "https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=dark&combine_all_yearly_contributions=true">
 <br>
-	 
-<br>
-</div>
-<br>
+		    <br>
+<div align=center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800"></div>
+<br> 
+
 
 <br>
-<div align=center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800"></div>
-<br>
+
+
 
 | ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false) |
 | -- | -- |	
@@ -125,10 +129,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
 <br>
 <br>
-<div align="center">
-	<a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
-</div>
+
 
 <br>
 <br>
