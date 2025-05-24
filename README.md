@@ -1,64 +1,93 @@
 <div align="center">
 
-# Hi, I'm Ayan Imran 👋 <a href="https://github.com/AYAN-IMRAN/"></a>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 800; color: #FFC83D;">
+    Hi, I'm <span style="color:#F0DB4F;">Ayan Imran</span> 👋
+  </h1>
 
-<p align="center">
   <a href="https://github.com/AYAN-IMRAN/">
-    <img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true&width=500&height=50&color=f0db4f" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true"
+      alt="Typing SVG"
+    />
   </a>
-</p>
 
-<a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800" />
-</a>
+  <a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/" style="display: block; margin-top: 20px;">
+    <img
+      src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark"
+      alt="GitHub WidgetBox"
+      width="800"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
 
 </div>
 
-<br>
+<br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" />
+  <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="350" style="border-radius:20px;"
+<img
+  align="right"
+  alt="Coding"
+  width="350"
+  style="border-radius: 20px; margin-left: 20px; margin-bottom: 20px;"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
 
-## About Me 👨‍💻
-I'm an AI Chatbot and Web Developer with 1.5 years of experience in web development and AI solutions.
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color:#F0DB4F;">
+  About Me 👨‍💻
+</h2>
 
-- 🚀 **Specializations**: AI Chatbots 🤖, MERN Stack Development,
-- 🧠 **Technologies**: NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python
-- 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
-- 🚀 **Currently learning**: **Full Stack Engineering** and doing **36 weeks remote job preparation**
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; line-height: 1.6; color:#ddd;">
+  I'm an <b style="color:#FFC83D;">AI Chatbot</b> and <b style="color:#FFC83D;">Web Developer</b> with <i>1.5 years</i> of experience in web development and AI solutions.
+</p>
 
-## 💡 Skills
-- **AI Chatbot Development**: Dialogflow, Langchain, Flowise
-- **Web Development**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; color:#eee; line-height: 1.6;">
+  <li>🚀 <b>Specializations</b>: <span style="color:#FFD54F;">AI Chatbots 🤖, MERN Stack Development</span></li>
+  <li>🧠 <b>Technologies</b>: <span style="color:#FFD54F;">NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python</span></li>
+  <li>💼 <b>Current Focus</b>: Chatbot development, Integrating AI into real-world applications</li>
+  <li>🚀 <b>Currently learning</b>: <span style="color:#FFD54F;"><b>Full Stack Engineering</b></span> and doing <b>36 weeks remote job preparation</b></li>
+</ul>
 
-<br><br>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color:#F0DB4F; margin-top: 40px;">
+  💡 Skills
+</h2>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; color:#eee; line-height: 1.6;">
+  <li><b>AI Chatbot Development:</b> Dialogflow, Langchain, Flowise</li>
+  <li><b>Web Development:</b> HTML, CSS, JavaScript, React, Next.js, TailwindCSS</li>
+</ul>
 
-<hr>
+<br /><br />
 
-<img align="right" alt="Coding" width="380" style="border-radius:20px;"
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
+
+<hr style="margin: 40px 0;" />
+
+<img
+  align="right"
+  alt="Coding"
+  width="380"
+  style="border-radius: 20px; margin-left: 20px; margin-bottom: 20px;"
   src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
-  width="500"
 />
-<br>
 
-<div align="left">
-• 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br><br>
-• 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br><br>
-• 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖  <br><br>
-• 💰 ʀɪꜱɪɴɢ ᴛᴀʟᴇɴᴛ ᴀᴛ ᴜᴘᴡᴏʀᴋ ✅. <br><br>
-• 📫 ʀᴇᴀᴄʜ ᴍᴇ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br><br>
-• 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ : https://ayan-imran.vercel.app/. <br><br> 
-• <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" />  1ᴠ1 ᴄᴏɴꜱᴜᴛᴀᴛɪᴏɴ : https://linktr.ee/ayanimran <br><br>
+<div align="left" style="font-family: 'Courier New', Courier, monospace; line-height: 1.8; font-weight: 600; font-size: 1.1rem; max-width: 600px; color:#eee;">
+
+  • 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br /><br />
+  • 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br /><br />
+  • 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖 <br /><br />
+  • 💰 ʀɪꜱɪɴɢ ᴛᴀʟᴇɴᴛ ᴀᴛ ᴜᴘᴡᴏʀᴋ ✅. <br /><br />
+  • 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br /><br />
+  • 📫 ᴠɪꜱɪᴛ ᴍʏ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ: <a href="https://ayan-imran.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#FFC83D; text-decoration: underline;">https://ayan-imran.vercel.app/</a>. <br /><br />
+  • <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" style="vertical-align:middle;" /> 1ᴠ1 ᴄᴏɴꜱᴜʟᴛᴀᴛɪᴏɴ : <a href="https://linktr.ee/ayanimran" target="_blank" rel="noopener noreferrer" style="color:#FFC83D; text-decoration: underline;">https://linktr.ee/ayanimran</a> <br /><br />
+
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
+
 
 
 
