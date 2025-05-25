@@ -129,27 +129,43 @@
   <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="26" />
 </h3>
 
-<p align="center">
-  <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank" title="Email Me">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff4c4c" alt="Email" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank" title="Follow on Facebook">
-    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
-  </a>
-  
-  <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank" title="Follow on Instagram">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  
-  <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank" title="Hire Me on Fiverr">
-    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4C4C" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.upwork.com/freelancers/~01a65595a1e91366c1" target="_blank">
+        <img src="https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=14A800" alt="Upwork" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
@@ -157,69 +173,60 @@
 <!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
 																										<br><br> -->
 	 
-<a href="#"><img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
-    <br>
+<!-- 🌟 GitHub Readme Enhanced Stats Layout by ChatGPT -->
 
-<h2>🔝 Top Contributed Repo</h2> 
-<img src = "https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=dark&combine_all_yearly_contributions=true">
-<br>
-		    <br>
-<div align=center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800"></div>
-<br> 
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
-  <span style="font-weight:bold; color:#facc15;"> Connect with Me </span>
-  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="26" />
-</h3>
-
+<!-- 🧠 Top Languages -->
+<h2 align="center">🧠 Top Languages</h2>
 <p align="center">
-  <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff4c4c" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
+  <a href="#">
+    <img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </p>
 
-<br>
+<!-- 🔝 Top Contributed Repos -->
+<h2 align="center">🔝 Top Contributed Repos</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
+<!-- 🧾 Profile Details Card -->
+<h2 align="center">🧾 Profile Summary</h2>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800" />
+</p>
 
+<!-- 📊 GitHub Stats and Streak -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false" />
+</p>
 
-| ![AYAN IMRAN github stats](https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![AYAN IMRAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false) |
-| -- | -- |	
-<br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=radical&no-frame=false&no-bg=true&margin-w=4"></div>
-<br>
-<br>
+<!-- 🏆 GitHub Trophies - One Row -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1" 
+    alt="Ayan Imran's GitHub Trophies" 
+    width="900" />
+</p>
 
-<br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true">
-<br>
-<br>
+<!-- 📈 Contribution Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true" />
+</p>
 
+<!-- 🐍 Contribution Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<br>
-<br>
-<div align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"></div>
-<br>
-<br>
+<!-- 🌀 Decorative Line -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
+<hr />
 
-<br>
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<hr>
-<br>
-</body>
