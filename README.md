@@ -123,21 +123,37 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  <span style="font-weight:bold; color:#FFC83D;">Connect with Me</span>
+  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="26" />
+</h3>
+
+<p align="center">
+  <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank" title="Email Me">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff4c4c" alt="Email" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank" title="Follow on Facebook">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+  </a>
+  
+  <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank" title="Follow on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  
+  <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank" title="Hire Me on Fiverr">
+    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
+  </a>
+</p>
 
 <br>
 
-  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="22" /> </h3>
-  <p align="center">
- <div align="center"  class="icons-social" style="margin-center: 10px;">
-<div>   
-    <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0078FF" alt="Ayan Imran  Email"></a>
- <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078ff" alt="Ayan Imran Linkedin"></a><br>
-    <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0078ff" alt="Ayan Imran Facebook"></a>
-    <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078ff" alt="Ayan Imran Instagram"></a>
-    <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0078ff" alt="Ayan Imran fiverr"></a>
-    <br>
-</div>
-</p>
+
 <!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
 																										<br><br> -->
 	 
@@ -151,6 +167,29 @@
 <div align=center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800"></div>
 <br> 
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  <span style="font-weight:bold; color:#facc15;"> Connect with Me </span>
+  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="26" />
+</h3>
+
+<p align="center">
+  <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff4c4c" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
+  </a>
+</p>
 
 <br>
 
