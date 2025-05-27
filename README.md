@@ -97,12 +97,12 @@
 
 <div align="center">
 
-## ⚙️ Full Stack Developer Tech Stack
+## ⚙️ Full Stack Developer Tech Stack <sub><sup>(some technologies currently in progress)</sup></sub>
 
 | **Frontend** | **Backend** | **DevOps** | **Database** |
 |:------------:|:-----------:|:----------:|:------------:|
 | ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933) | ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED) | ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248) |
-| ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6) | ![Express](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791) |
+| ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6) | ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) | ![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF) | ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=FFFFFF) |
 | ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) | ![Appwrite](https://img.shields.io/badge/Appwrite-0D1117?style=flat-square&logo=appwrite&logoColor=F02E65) | ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF) | ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28) |
 | ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF) | ![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF) | ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=00C7B7) | ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=sqlite&logoColor=003B57) |
@@ -117,10 +117,11 @@
 |:--------------------:|:-----------:|:--------------------:|:-------------------:|
 | ![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC) | ![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest&logoColor=C21325) | ![WebSocket](https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&logo=socket.io&logoColor=010101) | ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00A67E) |
 | ![Zustand](https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logo=zotero&logoColor=F7DF1E) | ![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33) | ![WebRTC](https://img.shields.io/badge/WebRTC-0D1117?style=flat-square&logo=webrtc&logoColor=3333FF) | ![Gemini API](https://img.shields.io/badge/Gemini%20API-0D1117?style=flat-square&logo=google&logoColor=4285F4) |
-|                       | ![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37) | ![gRPC](https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=grpc&logoColor=FFFFFF) | ![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=flat-square&logo=zapier&logoColor=FF4A00) |
-|                       |               | ![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098) |                   |
+|                      | ![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37) | ![gRPC](https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=grpc&logoColor=FFFFFF) | ![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=flat-square&logo=zapier&logoColor=FF4A00) |
+|                      |            | ![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098) |                   |
 
 </div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">
