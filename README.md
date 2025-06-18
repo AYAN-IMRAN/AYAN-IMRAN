@@ -41,7 +41,7 @@
 </h2>
 
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; line-height: 1.6; color:#ddd;">
-  I'm an <b style="color:#FFC83D;">AI Chatbot</b> and <b style="color:#FFC83D;">Web Developer</b> with <i>1.5 years</i> of experience in web development and AI solutions.
+  I'm an <b style="color:#FFC83D;">AI Chatbot</b> and <b style="color:#FFC83D;">Web Developer</b> with <i>2 years</i> of experience in web development and AI solutions.
 </p>
 
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; color:#eee; line-height: 1.6;">
