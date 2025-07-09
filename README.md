@@ -6,27 +6,32 @@
 
   <a href="https://github.com/AYAN-IMRAN/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;Mern+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true"
+      src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;MERN+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true"
       alt="Typing SVG"
     />
   </a>
 
-  <a href="https://AYAN-IMRANgithub.io/AYAN-IMRAN/" style="display: block; margin-top: 20px;">
+  <br />
+
+  <a href="https://github.com/AYAN-IMRAN/">
     <img
       src="https://github-widgetbox.vercel.app/api/profile?username=AYAN-IMRAN&data=followers,repositories,stars,commits&theme=dark"
       alt="GitHub WidgetBox"
       width="800"
-      style="max-width: 100%; height: auto;"
+      style="max-width: 100%; height: auto; border-radius: 10px;"
     />
   </a>
 
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
 
-<br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
+</div>
 
 <img
   align="right"
@@ -36,57 +41,35 @@
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color:#F0DB4F;">
-  About Me 👨‍💻
-</h2>
+<h2 style="color:#F0DB4F; font-weight: bold;">👨‍💻 About Me</h2>
 
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; line-height: 1.6; color:#ddd;">
-  I'm an <b style="color:#FFC83D;">AI Chatbot</b> and <b style="color:#FFC83D;">Web Developer</b> with <i>2 years</i> of experience in web development and AI solutions.
+<p style="font-size: 16px; color: #CCCCCC; line-height: 1.6;">
+  I'm an <b style="color:#FFC83D;">AI Chatbot Developer</b> and <b style="color:#FFC83D;">Full Stack Web Developer</b> with <i>2+ years</i> of hands-on experience in building smart web and AI solutions.
 </p>
 
-<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; color:#eee; line-height: 1.6;">
-  <li>🚀 <b>Specializations</b>: <span style="color:#FFD54F;">AI Chatbots 🤖, MERN Stack Development</span></li>
-  <li>🧠 <b>Technologies</b>: <span style="color:#FFD54F;">NLP, Dialogflow, Langchain 🦜🔗, Node.js, JavaScript, Python</span></li>
-  <li>💼 <b>Current Focus</b>: Chatbot development, Integrating AI into real-world applications</li>
-  <li>🚀 <b>Currently learning</b>: <span style="color:#FFD54F;"><b>Full Stack Engineering</b></span> and doing <b>36 weeks remote job preparation</b></li>
+<ul style="color:#EEEEEE; font-size: 16px; line-height: 1.6;">
+  <li>🚀 <b>Specializations:</b> <span style="color:#FFD54F;">AI Chatbots 🤖, MERN Stack Development</span></li>
+  <li>🧠 <b>Tech I'm fluent in:</b> <span style="color:#FFD54F;">JavaScript, Python, Node.js, React, TailwindCSS</span></li>
+  <li>🛠️ <b>AI Tools:</b> <span style="color:#FFD54F;">Dialogflow, Langchain 🦜🔗, Flowise</span></li>
+  <li>🎯 <b>Focus Areas:</b> Building real-world AI-integrated applications</li>
+  <li>📚 <b>Currently learning:</b> <span style="color:#FFD54F;">Full Stack Engineering</span> through a 36-week remote job prep program</li>
 </ul>
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color:#F0DB4F; margin-top: 40px;">
-  💡 Skills
-</h2>
+<h2 style="color:#F0DB4F; font-weight: bold; margin-top: 40px;">💡 Skills</h2>
 
-<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1rem; color:#eee; line-height: 1.6;">
+<ul style="color:#EEEEEE; font-size: 16px; line-height: 1.6;">
   <li><b>AI Chatbot Development:</b> Dialogflow, Langchain, Flowise</li>
-  <li><b>Web Development:</b> HTML, CSS, JavaScript, React, Next.js, TailwindCSS</li>
+  <li><b>Frontend:</b> HTML, CSS, JavaScript, React, Next.js, TailwindCSS</li>
+  <li><b>Backend:</b> Node.js, Express.js, MongoDB</li>
+  <li><b>Tools & Platforms:</b> Git, GitHub, Vercel, Netlify, Postman</li>
 </ul>
 
-<br /><br />
+<br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
-
-<hr style="margin: 40px 0;" />
-
-<img
-  align="right"
-  alt="Coding"
-  width="380"
-  style="border-radius: 20px; margin-left: 20px; margin-bottom: 20px;"
-  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
-/>
-
-<div align="left" style="font-family: 'Courier New', Courier, monospace; line-height: 1.8; font-weight: 600; font-size: 1.1rem; max-width: 600px; color:#eee;">
-
-  • 💪🏻 ɪ'ᴍ ᴀ 🔥 ᴄʜᴀᴛʙᴏᴛ ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. <br /><br />
-  • 👨‍💻 ɪ'ᴍ ᴀ ᴄʜᴀᴛʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴘᴀᴋɪꜱᴛᴀɴ. <br /><br />
-  • 🌊 ɪ'ᴍ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ᴅɪᴀʟᴏɢꜰʟᴏᴡ🤖 <br /><br />
-  • 💰 ʀɪꜱɪɴɢ ᴛᴀʟᴇɴᴛ ᴀᴛ ᴜᴘᴡᴏʀᴋ ✅. <br /><br />
-  • 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ʟɪɴᴋᴇᴅɪɴ ᴅᴍ (ᴀʏᴀɴ ɪᴍʀᴀɴ). <br /><br />
-  • 📫 ᴠɪꜱɪᴛ ᴍʏ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ: <a href="https://ayan-imran.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:#FFC83D; text-decoration: underline;">https://ayan-imran.vercel.app/</a>. <br /><br />
-  • <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" style="vertical-align:middle;" /> 1ᴠ1 ᴄᴏɴꜱᴜʟᴛᴀᴛɪᴏɴ : <a href="https://linktr.ee/ayanimran" target="_blank" rel="noopener noreferrer" style="color:#FFC83D; text-decoration: underline;">https://linktr.ee/ayanimran</a> <br /><br />
-
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider line" />
 
 
 
@@ -173,49 +156,48 @@
 
 <!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
 																										<br><br> -->
-	 
-<!-- 🌟 GitHub Readme Enhanced Stats Layout by ChatGPT -->
 
-<!-- 🧠 Top Languages -->
+<!-- 🔝 Top Languages -->
 <h2 align="center">🧠 Top Languages</h2>
 <p align="center">
   <a href="#">
-    <img alt="AYAN IMRAN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img alt="Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=radical&hide_border=false&layout=compact&langs_count=8&border_radius=10&cache_seconds=1800" 
+         style="transform: scale(1); transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
-<!-- 🔝 Top Contributed Repos -->
-<h2 align="center">🔝 Top Contributed Repos</h2>
+<!-- 🚀 Top Contributed Repositories -->
+<h2 align="center">🚀 Top Contributed Repositories</h2>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&animation=slide" alt="Top Contributions" />
 </p>
 
-<!-- 🧾 Profile Details Card -->
+<!-- 🧾 Profile Summary Card -->
 <h2 align="center">🧾 Profile Summary</h2>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=dark" alt="Profile Details" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYAN-IMRAN&theme=tokyonight" alt="GitHub Profile Details" width="800" />
 </p>
 
-<!-- 📊 GitHub Stats and Streak -->
+<!-- 📊 GitHub Stats and Streak with slight animated styling -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=radical&hide_border=false&show_icons=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<!-- 🏆 GitHub Trophies - One Row -->
+<!-- 🏆 GitHub Trophies with zoom animation -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1" 
-    alt="Ayan Imran's GitHub Trophies" 
-    width="900" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1&column=7&animation=zoomIn" width="900" />
 </p>
 
-<!-- 📈 Contribution Activity Graph -->
+<!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0D1117&color=f0db4f&line=ffffff&point=f0db4f&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <!-- 🐍 Contribution Snake Animation -->
@@ -224,10 +206,9 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- 🌀 Decorative Line -->
+<!-- ✨ Footer Line -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
-<hr />
 
