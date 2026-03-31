@@ -130,7 +130,7 @@ const ayan = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayan-imran-chatbot-dev/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-111111?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/ayan_programmar)
 [![Upwork](https://img.shields.io/badge/Upwork-111111?style=for-the-badge&logo=upwork&logoColor=14A800)](https://www.upwork.com/freelancers/~01a65595a1e91366c1)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ayanahmed3902/)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ayan_imran7/)
 
 </div>
 
